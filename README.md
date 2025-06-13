@@ -9,6 +9,14 @@ I'm a passionate software developer with interests in embedded systems, desktop 
 - 🛠️ Strong foundation in embedded systems and software architecture  
 - 💡 Enjoy solving real-world problems using clean, modular code
 
+### 💼 What I’m Currently Up To
+<!-- - 🔭 Working at **NCS Singapore** as a Software Engineer  
+- 🧪 Exploring **hardware/software test systems**  
+- 📘 Improving my skills in **.NET MAUI**, **C#**, and **Java** -->
+TBD
+
+
+
 ### 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
