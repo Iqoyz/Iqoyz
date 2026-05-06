@@ -3,7 +3,7 @@ I'm a full-stack software engineer with a focus on enterprise and government pla
 
 ### 🧑‍💻 About Me
 - 🎓 Graduated from **Nanyang Technological University (NTU)**  
-  — Major: **Computer Engineering** | Honours (Distinction)
+  — Major: **Computer Engineering**
 - 🛠️ Experienced in full-stack development, legacy system migration, and government platform integration
 - 💡 Enjoy solving real-world problems using clean, modular code
 
